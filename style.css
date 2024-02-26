@@ -1,0 +1,49 @@
+.container
+{
+    background-image: url("background.jpg");
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row 
+{
+    padding-top: 100px;
+
+}
+.card
+{
+    width:400px;
+    margin-left: 60px;
+    font-family: "Lateef", serif;
+    font-weight: 200;
+    font-style: normal;
+
+}
+.card-body
+{
+    background-color: rgb(197, 219, 235);
+    height: 200px;
+
+
+
+}
+
+.card h4{
+    font-size: 30px;
+}
+
+.card-body span
+{
+    margin-top: 20px;
+    display: block;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.card button
+{
+    border-radius: 50%;
+    width:40px;
+    height: 40px;
+    font-size: 25px;
+    text-align: center;
+}
